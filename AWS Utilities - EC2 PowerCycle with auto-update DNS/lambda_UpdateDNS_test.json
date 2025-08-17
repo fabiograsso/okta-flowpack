@@ -1,0 +1,7 @@
+{
+  "region": "us-east-1",
+  "detail": {
+    "instance-id": "i-xxxxxxxxxxxxxxxxxx",
+    "state": "running"
+  }
+}
